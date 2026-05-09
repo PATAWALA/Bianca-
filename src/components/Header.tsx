@@ -51,7 +51,7 @@ export default function Header() {
           {[
             { href: "/", label: "Accueil" },
             { href: "/a-propos", label: "À propos" },
-            { href: "/proprietes", label: "Propriétés" },
+            { href: "/proprietes", label: "Nos Inscriptions" },
             { href: "/temoignages", label: "Témoignages" },
             { href: "/articles", label: "Articles" },
             { href: "/contact", label: "Contact" },

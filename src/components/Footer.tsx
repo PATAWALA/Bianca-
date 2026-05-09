@@ -52,7 +52,7 @@ export default function Footer() {
             <ul className="space-y-2.5">
               <li><Link href="/" className="hover:text-amber-400 transition-colors text-sm">Accueil</Link></li>
               <li><Link href="/a-propos" className="hover:text-amber-400 transition-colors text-sm">À propos</Link></li>
-              <li><Link href="/proprietes" className="hover:text-amber-400 transition-colors text-sm">Propriétés</Link></li>
+              <li><Link href="/proprietes" className="hover:text-amber-400 transition-colors text-sm">Nos Inscriptions</Link></li>
               <li><Link href="/temoignages" className="hover:text-amber-400 transition-colors text-sm">Témoignages</Link></li>
               <li><Link href="/articles" className="hover:text-amber-400 transition-colors text-sm">Articles</Link></li>
               <li><Link href="/contact" className="hover:text-amber-400 transition-colors text-sm">Contact</Link></li>
