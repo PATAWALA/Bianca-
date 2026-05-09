@@ -10,7 +10,7 @@ export default function AboutTeaserSection() {
         {/* Photo de Bianca (ou image inspirante) */}
         <div className="relative h-80 lg:h-[500px] rounded-2xl overflow-hidden shadow-xl">
           <Image
-            src="https://images.unsplash.com/photo-1573497620c9-7b6c0c1b6f9f?w=800&auto=format&fit=crop"
+            src="/images/logo.jpg"
             alt="Bianca Despots"
             fill
             className="object-cover"
