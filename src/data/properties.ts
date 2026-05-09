@@ -39,7 +39,7 @@ export const properties: Property[] = [
     type: "Condo",
     images: [
       "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?w=800&auto=format&fit=crop",
-     "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?w=800&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?w=800&auto=format&fit=crop",
       "https://images.unsplash.com/photo-1484154218962-a197022b5858?w=800&auto=format&fit=crop",
       "https://images.unsplash.com/photo-1505692952047-1a78307da8f2?w=800&auto=format&fit=crop",
       "https://images.unsplash.com/photo-1505693416388-ac5ce068fe85?w=800&auto=format&fit=crop"

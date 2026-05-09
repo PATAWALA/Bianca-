@@ -42,3 +42,29 @@ body {
 ::-webkit-scrollbar-thumb:hover {
   background: #9a7b3a;
 }
+/* Animation de zoom lent pour le hero */
+@keyframes subtle-zoom {
+  0% {
+    transform: scale(1.05);
+  }
+  100% {
+    transform: scale(1.15);
+  }
+}
+
+.animate-subtle-zoom {
+  animation: subtle-zoom 20s infinite alternate ease-in-out;
+}
+/* Zoom plus rapide (10 secondes) */
+@keyframes subtle-zoom-fast {
+  0% {
+    transform: scale(1.05);
+  }
+  100% {
+    transform: scale(1.15);
+  }
+}
+
+.animate-subtle-zoom-fast {
+  animation: subtle-zoom-fast 10s infinite alternate ease-in-out;
+}
