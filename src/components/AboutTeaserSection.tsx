@@ -9,7 +9,7 @@ export default function AboutTeaserSection() {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 grid lg:grid-cols-2 gap-12 items-center">
         <div className="relative h-80 lg:h-[500px] rounded-2xl overflow-hidden shadow-xl">
           <Image
-            src="https://images.unsplash.com/photo-1573497620c9-7b6c0c1b6f9f?w=800&auto=format&fit=crop"
+            src="/images/logo.jpg"
             alt="Bianca Despots"
             fill
             className="object-cover"

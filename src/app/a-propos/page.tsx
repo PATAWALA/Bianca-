@@ -74,7 +74,7 @@ export default function AboutPage() {
       <section className="relative h-[50vh] min-h-[400px] flex items-center justify-center overflow-hidden">
         <div className="absolute inset-0 z-0">
           <Image
-            src="https://images.unsplash.com/photo-1573497620c9-7b6c0c1b6f9f?w=1920&auto=format&fit=crop"
+            src="/images/logo.jpg"
             alt="Bianca Despots"
             fill
             className="object-cover"
@@ -103,7 +103,7 @@ export default function AboutPage() {
         <div className="grid lg:grid-cols-2 gap-16 items-center">
           <div className="relative h-80 lg:h-[600px] rounded-2xl overflow-hidden shadow-2xl">
             <Image
-              src="https://images.unsplash.com/photo-1580489944761-15a19d654956?w=800&auto=format&fit=crop"
+              src="/images/logo.jpg"
               alt="Bianca en consultation"
               fill
               className="object-cover"

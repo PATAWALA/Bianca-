@@ -22,10 +22,10 @@ export const properties: Property[] = [
     type: "Résidentiel",
     images: [
       "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800&auto=format&fit=crop",
-      "https://images.unsplash.com/photo-1600566753086-00f18d6e5a44?w=800&auto=format&fit=crop",
-      "https://images.unsplash.com/photo-1600573472591-8f68aee8f37d?w=800&auto=format&fit=crop",
-      "https://images.unsplash.com/photo-1600585154526-990dced4db0d?w=800&auto=format&fit=crop",
-      "https://images.unsplash.com/photo-1600047509807-ba8f99d2cdde?w=800&auto=format&fit=crop"
+      "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?w=800&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1484154218962-a197022b5858?w=800&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1505692952047-1a78307da8f2?w=800&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1505693416388-ac5ce068fe85?w=800&auto=format&fit=crop"
     ]
   },
   {
@@ -39,10 +39,10 @@ export const properties: Property[] = [
     type: "Condo",
     images: [
       "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?w=800&auto=format&fit=crop",
-      "https://images.unsplash.com/photo-1600585153490-76fb20a32601?w=800&auto=format&fit=crop",
-      "https://images.unsplash.com/photo-1600566753190-17f0baa2a6c3?w=800&auto=format&fit=crop",
-      "https://images.unsplash.com/photo-1600585154363-ccc7e3d7f066?w=800&auto=format&fit=crop",
-      "https://images.unsplash.com/photo-1600573472557-0f68aee8f37d?w=800&auto=format&fit=crop"
+     "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?w=800&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1484154218962-a197022b5858?w=800&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1505692952047-1a78307da8f2?w=800&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1505693416388-ac5ce068fe85?w=800&auto=format&fit=crop"
     ]
   },
   {
@@ -56,10 +56,10 @@ export const properties: Property[] = [
     type: "Condo",
     images: [
       "https://images.unsplash.com/photo-1600585154526-990dced4db0d?w=800&auto=format&fit=crop",
-      "https://images.unsplash.com/photo-1600566753086-00f18d6e5a44?w=800&auto=format&fit=crop",
-      "https://images.unsplash.com/photo-1600573472591-8f68aee8f37d?w=800&auto=format&fit=crop",
-      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800&auto=format&fit=crop",
-      "https://images.unsplash.com/photo-1600047509807-ba8f99d2cdde?w=800&auto=format&fit=crop"
+      "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?w=800&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1484154218962-a197022b5858?w=800&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1505692952047-1a78307da8f2?w=800&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1505693416388-ac5ce068fe85?w=800&auto=format&fit=crop"
     ]
   },
   {
@@ -73,10 +73,10 @@ export const properties: Property[] = [
     type: "Résidentiel",
     images: [
       "https://images.unsplash.com/photo-1600585153490-76fb20a32601?w=800&auto=format&fit=crop",
-      "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?w=800&auto=format&fit=crop",
-      "https://images.unsplash.com/photo-1600585154363-ccc7e3d7f066?w=800&auto=format&fit=crop",
-      "https://images.unsplash.com/photo-1600573472557-0f68aee8f37d?w=800&auto=format&fit=crop",
-      "https://images.unsplash.com/photo-1600566753086-00f18d6e5a44?w=800&auto=format&fit=crop"
+      "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?w=800&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1484154218962-a197022b5858?w=800&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1505692952047-1a78307da8f2?w=800&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1505693416388-ac5ce068fe85?w=800&auto=format&fit=crop"
     ]
   },
   {
@@ -90,10 +90,10 @@ export const properties: Property[] = [
     type: "Résidentiel",
     images: [
       "https://images.unsplash.com/photo-1600566753190-17f0baa2a6c3?w=800&auto=format&fit=crop",
-      "https://images.unsplash.com/photo-1600585154526-990dced4db0d?w=800&auto=format&fit=crop",
-      "https://images.unsplash.com/photo-1600573472591-8f68aee8f37d?w=800&auto=format&fit=crop",
-      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800&auto=format&fit=crop",
-      "https://images.unsplash.com/photo-1600047509807-ba8f99d2cdde?w=800&auto=format&fit=crop"
+      "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?w=800&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1484154218962-a197022b5858?w=800&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1505692952047-1a78307da8f2?w=800&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1505693416388-ac5ce068fe85?w=800&auto=format&fit=crop"
     ]
   },
   {
@@ -106,11 +106,11 @@ export const properties: Property[] = [
     area: "83.1 m²",
     type: "Résidentiel",
     images: [
-      "https://images.unsplash.com/photo-1600585154363-ccc7e3d7f066?w=800&auto=format&fit=crop",
-      "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?w=800&auto=format&fit=crop",
-      "https://images.unsplash.com/photo-1600573472557-0f68aee8f37d?w=800&auto=format&fit=crop",
-      "https://images.unsplash.com/photo-1600566753086-00f18d6e5a44?w=800&auto=format&fit=crop",
-      "https://images.unsplash.com/photo-1600585153490-76fb20a32601?w=800&auto=format&fit=crop"
+      "https://images.unsplash.com/photo-1600047509807-ba8f99d2cdde?w=800&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?w=800&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1484154218962-a197022b5858?w=800&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1505692952047-1a78307da8f2?w=800&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1505693416388-ac5ce068fe85?w=800&auto=format&fit=crop"
     ]
   },
   {
@@ -123,11 +123,11 @@ export const properties: Property[] = [
     area: "90.5 m²",
     type: "Résidentiel",
     images: [
-      "https://images.unsplash.com/photo-1600573472591-8f68aee8f37d?w=800&auto=format&fit=crop",
-      "https://images.unsplash.com/photo-1600585154526-990dced4db0d?w=800&auto=format&fit=crop",
-      "https://images.unsplash.com/photo-1600047509807-ba8f99d2cdde?w=800&auto=format&fit=crop",
-      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800&auto=format&fit=crop",
-      "https://images.unsplash.com/photo-1600566753190-17f0baa2a6c3?w=800&auto=format&fit=crop"
+      "https://images.unsplash.com/photo-1494526585095-c41746248156?w=800&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?w=800&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1484154218962-a197022b5858?w=800&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1505692952047-1a78307da8f2?w=800&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1505693416388-ac5ce068fe85?w=800&auto=format&fit=crop"
     ]
   },
   {
@@ -141,78 +141,10 @@ export const properties: Property[] = [
     type: "Résidentiel",
     images: [
       "https://images.unsplash.com/photo-1600047509807-ba8f99d2cdde?w=800&auto=format&fit=crop",
-      "https://images.unsplash.com/photo-1600585153490-76fb20a32601?w=800&auto=format&fit=crop",
-      "https://images.unsplash.com/photo-1600585154363-ccc7e3d7f066?w=800&auto=format&fit=crop",
-      "https://images.unsplash.com/photo-1600573472557-0f68aee8f37d?w=800&auto=format&fit=crop",
-      "https://images.unsplash.com/photo-1600566753086-00f18d6e5a44?w=800&auto=format&fit=crop"
-    ]
-  },
-  {
-    id: "9",
-    city: "Saint-Lin/Laurentides",
-    price: 454700,
-    status: "À vendre",
-    beds: 3,
-    baths: 1,
-    area: null,
-    type: "Résidentiel",
-    images: [
-      "https://images.unsplash.com/photo-1600566753086-00f18d6e5a44?w=800&auto=format&fit=crop",
-      "https://images.unsplash.com/photo-1600585154526-990dced4db0d?w=800&auto=format&fit=crop",
-      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800&auto=format&fit=crop",
-      "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?w=800&auto=format&fit=crop",
-      "https://images.unsplash.com/photo-1600573472591-8f68aee8f37d?w=800&auto=format&fit=crop"
-    ]
-  },
-  {
-    id: "10",
-    city: "Deux-Montagnes",
-    price: 489500,
-    status: "Prix en baisse",
-    beds: 2,
-    baths: 1,
-    area: "95.1 m²",
-    type: "Résidentiel",
-    images: [
-      "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?w=800&auto=format&fit=crop",
-      "https://images.unsplash.com/photo-1600585153490-76fb20a32601?w=800&auto=format&fit=crop",
-      "https://images.unsplash.com/photo-1600573472557-0f68aee8f37d?w=800&auto=format&fit=crop",
-      "https://images.unsplash.com/photo-1600566753190-17f0baa2a6c3?w=800&auto=format&fit=crop",
-      "https://images.unsplash.com/photo-1600047509807-ba8f99d2cdde?w=800&auto=format&fit=crop"
-    ]
-  },
-  {
-    id: "11",
-    city: "Deux-Montagnes",
-    price: 519500,
-    status: "À vendre",
-    beds: 2,
-    baths: 1,
-    area: "1034 ft²",
-    type: "Résidentiel",
-    images: [
-      "https://images.unsplash.com/photo-1600573472557-0f68aee8f37d?w=800&auto=format&fit=crop",
-      "https://images.unsplash.com/photo-1600566753086-00f18d6e5a44?w=800&auto=format&fit=crop",
-      "https://images.unsplash.com/photo-1600585154526-990dced4db0d?w=800&auto=format&fit=crop",
-      "https://images.unsplash.com/photo-1600585154363-ccc7e3d7f066?w=800&auto=format&fit=crop",
-      "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?w=800&auto=format&fit=crop"
-    ]
-  },
-  {
-    id: "12",
-    city: "Terrebonne (Lachenaie)",
-    price: 524900,
-    status: "Nouveau",
-    beds: 5,
-    baths: 2,
-    area: null,
-    type: "Résidentiel",
-    images: [
-      "https://images.unsplash.com/photo-1600585154363-ccc7e3d7f066?w=800&auto=format&fit=crop",
-      "https://images.unsplash.com/photo-1600047509807-ba8f99d2cdde?w=800&auto=format&fit=crop",
-      "https://images.unsplash.com/photo-1600585153490-76fb20a32601?w=800&auto=format&fit=crop",
-      "https://images.unsplash.com/photo-1600566753190-17f0baa2a6c3?w=800&auto=format&fit=crop",
-      "https://images.unsplash.com/photo-1600573472591-8f68aee8f37d?w=800&auto=format&fit=crop"
+      "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?w=800&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1484154218962-a197022b5858?w=800&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1505692952047-1a78307da8f2?w=800&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1505693416388-ac5ce068fe85?w=800&auto=format&fit=crop"
     ]
   },
   {
@@ -226,10 +158,10 @@ export const properties: Property[] = [
     type: "Résidentiel",
     images: [
       "https://images.unsplash.com/photo-1600566753190-17f0baa2a6c3?w=800&auto=format&fit=crop",
-      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800&auto=format&fit=crop",
-      "https://images.unsplash.com/photo-1600573472557-0f68aee8f37d?w=800&auto=format&fit=crop",
-      "https://images.unsplash.com/photo-1600585154526-990dced4db0d?w=800&auto=format&fit=crop",
-      "https://images.unsplash.com/photo-1600047509807-ba8f99d2cdde?w=800&auto=format&fit=crop"
+      "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?w=800&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1484154218962-a197022b5858?w=800&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1505692952047-1a78307da8f2?w=800&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1505693416388-ac5ce068fe85?w=800&auto=format&fit=crop"
     ]
   },
   {
@@ -243,10 +175,10 @@ export const properties: Property[] = [
     type: "Résidentiel",
     images: [
       "https://images.unsplash.com/photo-1600585154526-990dced4db0d?w=800&auto=format&fit=crop",
-      "https://images.unsplash.com/photo-1600566753086-00f18d6e5a44?w=800&auto=format&fit=crop",
-      "https://images.unsplash.com/photo-1600585153490-76fb20a32601?w=800&auto=format&fit=crop",
-      "https://images.unsplash.com/photo-1600573472591-8f68aee8f37d?w=800&auto=format&fit=crop",
-      "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?w=800&auto=format&fit=crop"
+     "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?w=800&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1484154218962-a197022b5858?w=800&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1505692952047-1a78307da8f2?w=800&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1505693416388-ac5ce068fe85?w=800&auto=format&fit=crop"
     ]
   },
   {
@@ -260,27 +192,10 @@ export const properties: Property[] = [
     type: "Résidentiel",
     images: [
       "https://images.unsplash.com/photo-1600585153490-76fb20a32601?w=800&auto=format&fit=crop",
-      "https://images.unsplash.com/photo-1600047509807-ba8f99d2cdde?w=800&auto=format&fit=crop",
-      "https://images.unsplash.com/photo-1600573472557-0f68aee8f37d?w=800&auto=format&fit=crop",
-      "https://images.unsplash.com/photo-1600566753190-17f0baa2a6c3?w=800&auto=format&fit=crop",
-      "https://images.unsplash.com/photo-1600585154363-ccc7e3d7f066?w=800&auto=format&fit=crop"
-    ]
-  },
-  {
-    id: "16",
-    city: "Bois-Des-Filion",
-    price: 573900,
-    status: "Prix en baisse",
-    beds: 3,
-    baths: 2,
-    area: null,
-    type: "Résidentiel",
-    images: [
-      "https://images.unsplash.com/photo-1600573472591-8f68aee8f37d?w=800&auto=format&fit=crop",
-      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800&auto=format&fit=crop",
-      "https://images.unsplash.com/photo-1600566753086-00f18d6e5a44?w=800&auto=format&fit=crop",
-      "https://images.unsplash.com/photo-1600585154526-990dced4db0d?w=800&auto=format&fit=crop",
-      "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?w=800&auto=format&fit=crop"
+      "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?w=800&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1484154218962-a197022b5858?w=800&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1505692952047-1a78307da8f2?w=800&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1505693416388-ac5ce068fe85?w=800&auto=format&fit=crop"
     ]
   },
   {
@@ -294,10 +209,10 @@ export const properties: Property[] = [
     type: "Résidentiel",
     images: [
       "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?w=800&auto=format&fit=crop",
-      "https://images.unsplash.com/photo-1600585153490-76fb20a32601?w=800&auto=format&fit=crop",
-      "https://images.unsplash.com/photo-1600573472557-0f68aee8f37d?w=800&auto=format&fit=crop",
-      "https://images.unsplash.com/photo-1600566753190-17f0baa2a6c3?w=800&auto=format&fit=crop",
-      "https://images.unsplash.com/photo-1600047509807-ba8f99d2cdde?w=800&auto=format&fit=crop"
+      "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?w=800&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1484154218962-a197022b5858?w=800&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1505692952047-1a78307da8f2?w=800&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1505693416388-ac5ce068fe85?w=800&auto=format&fit=crop"
     ]
   },
   {
@@ -310,11 +225,11 @@ export const properties: Property[] = [
     area: null,
     type: "Résidentiel",
     images: [
-      "https://images.unsplash.com/photo-1600585154363-ccc7e3d7f066?w=800&auto=format&fit=crop",
-      "https://images.unsplash.com/photo-1600566753086-00f18d6e5a44?w=800&auto=format&fit=crop",
-      "https://images.unsplash.com/photo-1600573472591-8f68aee8f37d?w=800&auto=format&fit=crop",
-      "https://images.unsplash.com/photo-1600585154526-990dced4db0d?w=800&auto=format&fit=crop",
-      "https://images.unsplash.com/photo-1600047509807-ba8f99d2cdde?w=800&auto=format&fit=crop"
+      "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?w=800&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?w=800&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1484154218962-a197022b5858?w=800&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1505692952047-1a78307da8f2?w=800&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1505693416388-ac5ce068fe85?w=800&auto=format&fit=crop"
     ]
   },
   {
@@ -328,27 +243,10 @@ export const properties: Property[] = [
     type: "Résidentiel",
     images: [
       "https://images.unsplash.com/photo-1600047509807-ba8f99d2cdde?w=800&auto=format&fit=crop",
-      "https://images.unsplash.com/photo-1600585153490-76fb20a32601?w=800&auto=format&fit=crop",
-      "https://images.unsplash.com/photo-1600585154363-ccc7e3d7f066?w=800&auto=format&fit=crop",
-      "https://images.unsplash.com/photo-1600573472557-0f68aee8f37d?w=800&auto=format&fit=crop",
-      "https://images.unsplash.com/photo-1600566753086-00f18d6e5a44?w=800&auto=format&fit=crop"
-    ]
-  },
-  {
-    id: "20",
-    city: "Pointe-Calumet",
-    price: 625000,
-    status: "Prix en baisse",
-    beds: 3,
-    baths: 2,
-    area: null,
-    type: "Résidentiel",
-    images: [
-      "https://images.unsplash.com/photo-1600573472557-0f68aee8f37d?w=800&auto=format&fit=crop",
-      "https://images.unsplash.com/photo-1600585154526-990dced4db0d?w=800&auto=format&fit=crop",
-      "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?w=800&auto=format&fit=crop",
-      "https://images.unsplash.com/photo-1600566753190-17f0baa2a6c3?w=800&auto=format&fit=crop",
-      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800&auto=format&fit=crop"
+     "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?w=800&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1484154218962-a197022b5858?w=800&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1505692952047-1a78307da8f2?w=800&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1505693416388-ac5ce068fe85?w=800&auto=format&fit=crop"
     ]
   },
   {
@@ -362,10 +260,10 @@ export const properties: Property[] = [
     type: "Résidentiel",
     images: [
       "https://images.unsplash.com/photo-1600585154526-990dced4db0d?w=800&auto=format&fit=crop",
-      "https://images.unsplash.com/photo-1600047509807-ba8f99d2cdde?w=800&auto=format&fit=crop",
-      "https://images.unsplash.com/photo-1600585153490-76fb20a32601?w=800&auto=format&fit=crop",
-      "https://images.unsplash.com/photo-1600566753086-00f18d6e5a44?w=800&auto=format&fit=crop",
-      "https://images.unsplash.com/photo-1600573472591-8f68aee8f37d?w=800&auto=format&fit=crop"
+      "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?w=800&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1484154218962-a197022b5858?w=800&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1505692952047-1a78307da8f2?w=800&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1505693416388-ac5ce068fe85?w=800&auto=format&fit=crop"
     ]
   },
   {
@@ -379,10 +277,10 @@ export const properties: Property[] = [
     type: "Résidentiel",
     images: [
       "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?w=800&auto=format&fit=crop",
-      "https://images.unsplash.com/photo-1600585154363-ccc7e3d7f066?w=800&auto=format&fit=crop",
-      "https://images.unsplash.com/photo-1600573472557-0f68aee8f37d?w=800&auto=format&fit=crop",
-      "https://images.unsplash.com/photo-1600566753190-17f0baa2a6c3?w=800&auto=format&fit=crop",
-      "https://images.unsplash.com/photo-1600585154526-990dced4db0d?w=800&auto=format&fit=crop"
+     "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?w=800&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1484154218962-a197022b5858?w=800&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1505692952047-1a78307da8f2?w=800&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1505693416388-ac5ce068fe85?w=800&auto=format&fit=crop"
     ]
   },
   {
@@ -395,11 +293,11 @@ export const properties: Property[] = [
     area: null,
     type: "Résidentiel",
     images: [
-      "https://images.unsplash.com/photo-1600585154363-ccc7e3d7f066?w=800&auto=format&fit=crop",
-      "https://images.unsplash.com/photo-1600573472591-8f68aee8f37d?w=800&auto=format&fit=crop",
-      "https://images.unsplash.com/photo-1600585153490-76fb20a32601?w=800&auto=format&fit=crop",
-      "https://images.unsplash.com/photo-1600566753086-00f18d6e5a44?w=800&auto=format&fit=crop",
-      "https://images.unsplash.com/photo-1600047509807-ba8f99d2cdde?w=800&auto=format&fit=crop"
+      "https://images.unsplash.com/photo-1460317442991-0ec209397118?w=800&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?w=800&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1484154218962-a197022b5858?w=800&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1505692952047-1a78307da8f2?w=800&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1505693416388-ac5ce068fe85?w=800&auto=format&fit=crop"
     ]
   },
   {
@@ -413,10 +311,10 @@ export const properties: Property[] = [
     type: "Résidentiel",
     images: [
       "https://images.unsplash.com/photo-1600566753190-17f0baa2a6c3?w=800&auto=format&fit=crop",
-      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800&auto=format&fit=crop",
-      "https://images.unsplash.com/photo-1600585154526-990dced4db0d?w=800&auto=format&fit=crop",
-      "https://images.unsplash.com/photo-1600573472557-0f68aee8f37d?w=800&auto=format&fit=crop",
-      "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?w=800&auto=format&fit=crop"
+      "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?w=800&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1484154218962-a197022b5858?w=800&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1505692952047-1a78307da8f2?w=800&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1505693416388-ac5ce068fe85?w=800&auto=format&fit=crop"
     ]
   }
 ];
